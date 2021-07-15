@@ -30,8 +30,8 @@ Trabajando con Base de Datos SQL Server
 - En este trabajo se realizó un breve taller práctico donde se  desarrolló la creación de una base de datos en Microsoft SQL Server, como la creación de un nuevo proyecto con la conexiòn a la base de datos y query.
 
 - Para el desarrollo y manejo de la base de datos utilizamos la herramienta  Microsoft SQL Server y una base de datos HOSPITAL.
-- 
-### DESARROLLO
+
+### DATOS
 
 ![image](https://user-images.githubusercontent.com/55814963/125708923-d70a0b71-26da-4c49-a384-d05607edf7d7.png)
 ![image](https://user-images.githubusercontent.com/55814963/125708955-6f63ad52-e6c9-41cd-800b-2426d6d521fb.png)
