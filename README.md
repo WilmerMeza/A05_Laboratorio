@@ -1,9 +1,8 @@
 # A05_Laboratorio
 Trabajando con Base de Datos SQL Server
 # OBJETIVO
-1. Analizar y modelar la base de datos cumpliendo los estándares de una base de datos.
-2. La creación de una base de datos en Microsoft SQL Server, 
-3. La creación de tablas y la gestión de copia de seguridad (backup) de la base de datos.
+1. La creación de una base de datos en Microsoft SQL Server, 
+2. La creación de tablas y la gestión de copia de seguridad (backup) de la base de datos.
 
 
 # INTEGRANTE
